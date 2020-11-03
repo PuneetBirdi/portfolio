@@ -502,11 +502,11 @@ header .wrapper {
 
 .html5 {
   background: linear-gradient(145deg, rgb(241, 116, 63), #e44d26);
-  width: 95%;
+  width: 100%;
 }
 .css3 {
   background: linear-gradient(145deg, #507fee, #264de4);
-  width: 55%;
+  width: 85%;
 }
 .react {
   background: linear-gradient(145deg, rgb(114, 234, 255), #00d8ff);
@@ -518,11 +518,19 @@ header .wrapper {
 }
 .javascript {
   background: linear-gradient(145deg, #f8eb89, #f7df1e);
-  width: 75%;
+  width: 80%;
 }
 .graphql {
   background: linear-gradient(145deg, rgb(223, 99, 181), #e535ab);
   width: 30%;
+}
+.nodejs {
+  background: linear-gradient(145deg, #a9da76, #8cc84b);
+  width: 60%;
+}
+.mongodb {
+  background: linear-gradient(145deg, #6cac48, #599636);
+  width: 60%;
 }
 
 /* ------------------------------PORTFOLIO */
